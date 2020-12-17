@@ -1,0 +1,30 @@
+
+body {
+  font-family: "Montserrat-bold", sans-serif;
+
+}
+
+.navbar-brand {
+  font-family: "Montserrat";
+}
+#title {
+  background-color: powderblue;
+}
+
+h1 {
+  font-family: "Montserrat-bold", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+
+.FundFinder {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: inherit;
+}
